@@ -1,0 +1,17 @@
+.navbar-nav .nav-link {
+    transition: transform 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    transform: scale(1.1);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+.img-fluid:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
